@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/3d8211f0-64d1-4e4e-96f5-bb7885ab27e4)
   # VagrantProject
 Vagrant Multi-VM Setup for Web Application This Vagrantfile sets up a multi-VM environment for a web application with different components such as a database server, memcached server, RabbitMQ server, application server (Tomcat), and a web server (Nginx). Each VM is provisioned with the necessary software using shell scripts
 
